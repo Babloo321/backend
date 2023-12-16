@@ -1,0 +1,11 @@
+{
+  "name": "backend_with_project",
+  "version": "1.0.0",
+  "description": "learning backend with full stack project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Babloo_Kumar",
+  "license": "ISC"
+}
